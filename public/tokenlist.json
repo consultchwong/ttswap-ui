@@ -1,0 +1,32 @@
+{
+  "name": "Tutorial",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "keywords": [
+    "tutorial",
+    "defi"
+  ],
+  "timestamp": "2020-09-10T12:37:57.000+00:00",
+  "tokens": [
+    {
+      "chainId": 4,
+      "address": "0xD9BA894E0097f8cC2BBc9D24D308b98e36dc6D02",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+      "chainId": 4,
+      "address": "0x994bca9aa10586ff4542a965036e9902af67a645",
+      "name": "TutorialToken",
+      "symbol": "TT",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
